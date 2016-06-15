@@ -12,3 +12,7 @@ You can reach through [Shopify China Union Pay Service Provider](http://www.shop
 
 ###Shopify Wechat Pay Integration
 You can reach through [Shopify China Wechat Pay Service Provider](http://www.shopifychina.com/en.html)
+
+###Enterprise Alipay Solution
+You can visit [Shopify China Payments](http://www.china-payments.com)
+
